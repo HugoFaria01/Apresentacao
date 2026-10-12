@@ -1,37 +1,15 @@
-# Foobar
+# Hugo Faria
 
-O meu nome e Hugo Faria
+Olá! Sou o **Hugo Faria**, tenho 18 anos e foi estudante na **Escola Camilo Castelo Branco**. 
 
-## Installation
+---
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+##  Linguagens
 
-```bash
-pip install foobar
-```
+- **Linguagens de Programação:** C#, PHP, HTML5, etc
+- **Bases de Dados:** SQL 
+- **Ferramentas & Outros:** GitHub, VS Code, Visual Studio
 
-## Usage
+---
 
-```python
-import foobar
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
