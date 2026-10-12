@@ -8,7 +8,7 @@ Olá! Sou o **Hugo Faria**, tenho 18 anos e foi estudante na **Escola Secundári
 
 - **Linguagens & Web:** C#, PHP, HTML5, etc
 - **Bases de Dados:** SQL 
-- **Ferramentas & Ambientes:**GitHub, VS Code, Visual Studio
+- **Ferramentas & Ambientes:** GitHub, VS Code, Visual Studio
 
 ---
 
